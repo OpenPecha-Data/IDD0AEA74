@@ -4,4 +4,34 @@ source_metadata:
   id: bdr:W1KG1657
   title: གསུང་འབུམ། དྷརྨ་བྷ་དྲ
   author: ''
-  volumes: {}
+  volumes:
+    acda4722a92045ba813ad00544ed7e83:
+      image_group_id: I1KG1739
+      title: ''
+      volume_number: 1
+      total_pages: 748
+    0b62d342b4cf4dd4baf1e604f831275d:
+      image_group_id: I1KG1740
+      title: ''
+      volume_number: 2
+      total_pages: 833
+    550d4cb6224e4568aaf49734677125aa:
+      image_group_id: I1KG1741
+      title: ''
+      volume_number: 3
+      total_pages: 803
+    cb89ab3e189c4beeb09f1e2c4a263500:
+      image_group_id: I1KG1742
+      title: ''
+      volume_number: 4
+      total_pages: 712
+    a1579023d2cd4d60a563004846682234:
+      image_group_id: I1KG1743
+      title: ''
+      volume_number: 5
+      total_pages: 640
+    a4fb4ec66a864f52838eb5afde718503:
+      image_group_id: I1KG1744
+      title: ''
+      volume_number: 6
+      total_pages: 930
