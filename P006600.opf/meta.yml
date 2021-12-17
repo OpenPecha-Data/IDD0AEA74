@@ -1,7 +1,7 @@
 id: P006600
 initial_creation_type: ocr
 created_at: 21/03/2020
-last_modified_at: 24/11/2021
+last_modified_at: 2021-12-17 12:09:28.784035
 source_metadata:
   id: bdr:W1KG1657
   title: གསུང་འབུམ། དྷརྨ་བྷ་དྲ
@@ -43,3 +43,5 @@ source_metadata:
       volume_number: 6
       total_pages: 930
       base_file: v006.txt
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: true
